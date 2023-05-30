@@ -1,0 +1,58 @@
+.contact-container {
+    background: #3a3a3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #efefef;
+    padding: 25px;
+  }
+  
+  #content-header {
+    margin-left: 35%;
+    font-size: 20px;
+  }
+  
+  .form-info {
+    width: 50%;
+  }
+  
+  .form-group {
+    margin-left: 50px;
+    width: 90%;
+    padding: 5px;
+  }
+  
+  .form-control {
+    padding: 15px;
+    width: 70%;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .form {
+    width: 71%;
+    padding: 14px;
+    border-radius: 5px;
+  }
+  
+  .btn-submit {
+    margin-left: 66%;
+    color: #404142;
+    background-color: #fcd93b;
+    border: none;
+    padding: 8px; 
+    width: 9%;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .twitter-info  {
+    text-align: center;
+    width: 40%;
+    margin-top: 50px;
+  }
+  
+  .twitter-info a {
+    text-decoration: none;
+    color: #337ab7;
+  }

@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font-weight: 350;
+    padding: 30px;
+    font-size: 30px;
+  }
+  
+  .row-content {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin-left: 15%;
+  }
+  
+  .row {
+    padding: 25px;
+  }
+  
+  .row h3 {
+    margin-left: 30px;
+  }

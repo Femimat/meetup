@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    flex-direction: row;
+    background-color: #016cc7;
+ }
+
+  .img {
+    max-width: 180px;
+  }
+
+  .btn {
+    background-color: #dd5138;
+    padding: 15px 40px;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+  }  
+
+  header {
+    padding: 6%;
+    color: #fff;
+  }
+  
+  header p {
+    font-size: 30px;
+  }

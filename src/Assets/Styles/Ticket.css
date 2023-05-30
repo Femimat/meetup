@@ -1,0 +1,39 @@
+.price-container {
+    background: #fcd93b;
+    padding: 15px;
+  }
+  
+  #price-tict {
+    text-align: center;
+  }
+  
+  #ticket {
+    padding-left: 50px;
+    color: #dd5138;
+    font-size: 45px;
+  }
+  
+  .price-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    line-height: 20px;
+  }
+  
+  .price {
+    padding: 20px;
+  }
+  
+  .price h3 {
+    margin-left: 45px;
+  }
+  
+  .btn-ny {
+    background-color: #dd5138;
+    padding: 15px 20px;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-left: 25px;
+  }
